@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/KasiaOtko/KasiaOtko.github.io.git
+	branch = main
+[submodule "SocialDataVis/public"]
+	path = SocialDataVis/public
+	url = https://github.com/KasiaOtko/KasiaOtko.github.io.git
+	branch = main
