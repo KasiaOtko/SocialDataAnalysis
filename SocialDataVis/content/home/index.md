@@ -1,5 +1,5 @@
 ---
-title: "Index"
-draft: true
+title: "Social Data Vis"
+draft: false
 weight: 0
 ---
