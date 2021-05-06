@@ -1,11 +1,14 @@
 ---
 title: "A"
-date: 2021-04-04T14:21:41+02:00
+
 draft: false
+weight: 2
 ---
 This is a matplotlib plot.
 
 ![Weekly trends](/images/WeeklyTrends.jpg)
+
+blablabla
 
 #### Bokeh plot
 
