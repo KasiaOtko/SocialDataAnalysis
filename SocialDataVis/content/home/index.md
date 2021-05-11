@@ -1,7 +1,7 @@
 ---
-title: "Social Data Vis"
+title: "African Conflicts"
 draft: false
 weight: 0
 ---
 
-African conflicts.
+Analysis and visualisation of Conflict Data for Africa 1997 - 2016.
