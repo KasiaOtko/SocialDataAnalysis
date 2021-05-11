@@ -1,6 +1,3 @@
----
-title: "Blog"
-weight: 20
----
-
-Here is some introduction text for my blog. You can set this text in the `/blog/_index.md` file. This page uses the `/layouts/blog/list.html` template.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8d76d136024e384e7c0657102f73f0f932409bb0917c15c894003e6d8755b18
+size 186

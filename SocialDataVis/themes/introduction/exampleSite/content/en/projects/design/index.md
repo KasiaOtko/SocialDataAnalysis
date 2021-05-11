@@ -1,13 +1,3 @@
----
-title: "Design"
-weight: 2
-resources:
-    - src: plant.jpg
-      params:
-          weight: -100
-project_timeframe: June-December
----
-
-This theme was designed by [Victoria Drake](https://victoria.dev). Go on, explore! 💪
-
-If you want to use it for your website, check out the section at the bottom of the main page. 👍
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b70527acb16707a847cc80c46913435c182f457204879cf546c104f629cf60e
+size 325

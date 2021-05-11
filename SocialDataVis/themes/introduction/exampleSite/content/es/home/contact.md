@@ -1,7 +1,3 @@
----
-title: "Contacto"
----
-
-En la sección de Contacto de **Introducción**, tu puedes opcionalmente mostrar la hora actual en tu zona horaria preferida.
-
-Esto permite a los visitantes saber que tiempo de respuesta esperan tener cuando te contactan. La zhoa horaria es facilmente configurable en el archivo de configuración.
+version https://git-lfs.github.com/spec/v1
+oid sha256:601d421f7e98eeffd7e316ef7cfd21ba12a4f014857331c9c2a06d98abdbc47e
+size 325

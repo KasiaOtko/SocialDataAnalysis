@@ -1,11 +1,3 @@
----
-title: "{{ replace .TranslationBaseName "-" " " | title }}" # Title of your project
-date: {{ .Date }}
-weight: 0 # Order in which to show this project on the home page
-external_link: "" # Optional external link instead of modal
-resources:
-    - src: plant.jpg
-      params:
-          weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
----
+version https://git-lfs.github.com/spec/v1
+oid sha256:e156d266c3c32f30dd529a442113c3a9290c4ecea4c60c53f30cd95ee7e25b15
+size 381
